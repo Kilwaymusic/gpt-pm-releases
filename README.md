@@ -25,6 +25,14 @@ The download links above always point to the latest complete build. New download
 
 Replace the Windows EXE to update Desktop. Install a new APK over the existing Android app to preserve paired PCs; do not uninstall the app first.
 
-These are unsigned Windows builds and Android builds signed with the existing development key. They are not store releases. `SHA256SUMS.txt` contains the hashes of the two app downloads.
+These are unsigned Windows builds and Android builds signed with the existing development key. They are not store releases. `SHA256SUMS.txt` contains the hashes of the release downloads.
+
+## Developer and license
+
+Developed by **Gihyun Kil** under **Arsonist**.
+
+Portfolio: **[arsonist.dev](https://arsonist.dev)**
+
+Copyright © 2026 Gihyun Kil. Distributed under the **[MIT License](LICENSE)**. The full notice is also included as `LICENSE.txt` with each release. Third-party components retain their respective licenses.
 
 This repository contains downloads and usage notes. Application source code and its Git history are maintained separately. GitHub's automatic **Source code** archives contain only this distribution repository's files.
